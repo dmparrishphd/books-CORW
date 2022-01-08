@@ -3,7 +3,7 @@ Addison-Wesley; Reading, Mass. ISBN:0201543303
 
 I have read (2022) part of this book.
 
-Why I started reading this book (nearly) 30-year-old computer
+Why I started reading this (nearly) 30-year-old computer
 language book in 2022:
 
               "[Today's C++] looks remarkably like
