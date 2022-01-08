@@ -1,0 +1,32 @@
+Bjarne Stroustrup (1994) The Design and Evolution of C++.
+Addison-Wesley; Reading, Mass. ISBN:0201543303
+
+I have read (2022) part of this book.
+
+Why I started reading this book (nearly) 30-year-old computer
+language book in 2022:
+
+              "[Today's C++] looks remarkably like
+                  [what is described in] D&E."
+
+                  ---Bjarne Stroustrup [2021]
+
+Bjarne Stroustrup also had this to say about D&E in [2021]:
+
+        "[As] C++ started to [become] polular... a lot of
+        people [were] explaining it to a lot of other
+        people what it was and what it wasn't and they
+        were getting it wrong quite consistently....
+
+        "I wrote The Design and Evolution of C++, the
+        purpose being to explain what C++ is, why [it is
+        the way it is], and what the ideas are [because]
+        I realized that articulation of... ideas is
+        absolutely essential [as opposed to] saying to
+        people, 'this is what you can do...' [and
+        leaving out an explanaiton of] why... it
+        make[s] sense to do it that way..."
+
+[2021] Bjarne Stroustrup (2021-09-11--16) C++20: Reaching for
+the Aims of C++. CppCon 2021. Aurora, Colo. https://www.youtube.
+com/watch?v=15QF2q66NhU
