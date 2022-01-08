@@ -1,2 +1,4 @@
-# books-CORW
-books I have read
+Books I Have Read
+=================
+
+_An annotated bibliography_
